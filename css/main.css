@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.icon-container {
+  width: calc(32px * 4 + 4px * 3);
+  margin: auto;
+}
