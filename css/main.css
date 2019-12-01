@@ -44,6 +44,6 @@ ul.posts li {
 }
 
 .icon-container {
-  width: calc(32px * 4 + 4px * 3);
+  width: calc(32px * 4);
   margin: auto;
 }
