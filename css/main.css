@@ -39,7 +39,7 @@ footer {
 }
 
 .logo-container {
-	text-align: center;
+	text-align: right;
 }
 
 .logo {
@@ -49,6 +49,6 @@ footer {
 	background-size: cover;
 	border-radius: 50%;
 	-moz-border-radius: 50%;
-	border: 2px solid;
+	border: 2px solid #ffffff;
 	/*box-shadow: 0 0 0 3px $text-color;*/
 }
