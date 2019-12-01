@@ -1,3 +1,10 @@
+---
+---
+
+$text-color: #303030;
+$anchor-text-color: #0088D5;
+$background-color: #FFFFFF;
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -38,3 +45,17 @@ footer {
     font-size: .8em;
 }
 
+.logo-container {
+	text-align: center;
+}
+
+.logo {
+	width: 96px;
+	height: 96px;
+	display: inline-block;
+	background-size: cover;
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	border: 2px solid $background-color;
+	/*box-shadow: 0 0 0 3px $text-color;*/
+}
