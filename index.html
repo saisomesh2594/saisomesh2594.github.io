@@ -14,7 +14,7 @@ title: Somesh Sai, Just Another Bioinformatician
 		<ul>
 			<li><a href="/about">About</a></li>
 			<li><a href="/cv">CV</a></li>
-			<li><a href="/cv">Download CV</a></li>
+			<!--<li><a href="/cv">Download CV</a></li>-->
 		</ul>
 	</nav>
 	<div class="container">
@@ -22,8 +22,8 @@ title: Somesh Sai, Just Another Bioinformatician
         		<h1>Greetings Visitors, I'm Somesh!</h1>
 		</div><!-- /.blurb -->
 		<div class="logo-container">
-			<a href="www.google.com">
-				<img itemprop="image" src="/images/me.jpg" height="0" width="0" alt="Somesh Sai"/></a>
+			<a class="logo" itemprop="url" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.logo }}')" alt="Somesh"></a>
+			<img itemprop="image" src="{{ site.baseurl }}{{ site.logo }}" height="0" width="0" alt="Somesh"/>
 		</div>
 	</div><!-- /.container -->
 	<footer>
