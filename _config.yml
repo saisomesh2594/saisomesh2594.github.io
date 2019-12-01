@@ -1,2 +1,4 @@
 name: Somesh Sai, Just Another Bioinformatician
 markdown: kramdown
+baseurl: "" # the subpath of your site, e.g. /blog
+logo: "/images/me.jpg"
