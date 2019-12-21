@@ -39,7 +39,7 @@ footer {
 }
 
 .logo-container {
-	float: right;
+	text-align: right;
 	display: inline-block;
 }
 
