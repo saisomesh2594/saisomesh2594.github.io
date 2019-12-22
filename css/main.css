@@ -43,6 +43,11 @@ footer {
 	display: inline-block;
 }
 
+.para-container {
+	text-align: right;
+	display: inline-block;
+}
+
 .logo {
 	width: 200px;
 	height: 200px;
