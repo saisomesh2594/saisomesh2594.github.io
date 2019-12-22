@@ -39,10 +39,9 @@ h3 {
     margin: auto;
 }
 
-footer {
-    border-top: 3px solid #d5d5d5;
-   
-}
+/*footer {
+   border-top: 3px solid #d5d5d5;
+}*/
 
 .title-container {
 	text-align: right;
