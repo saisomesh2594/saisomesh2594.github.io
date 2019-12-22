@@ -44,7 +44,7 @@ footer {
    
 }
 
-.logo-container {
+.title-container {
 	text-align: right;
 	display: inline-block;
 }
@@ -70,3 +70,24 @@ footer {
   flex-flow: row nowrap;
 }
 
+#text-container {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+}
+
+article {
+  padding: 0 1rem 1rem 0;
+  text-align: justify;
+}
+
+#dp-container {
+  padding-top: 2rem;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	background-size: cover;
+	border-radius: 10%;
+	-moz-border-radius: 10%;
+	border: 1px solid #ffffff;
+}
