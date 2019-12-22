@@ -87,7 +87,7 @@ article {
 	height: 200px;
 	display: inline-block;
 	background-size: cover;
-	border-radius: 10%;
-	-moz-border-radius: 10%;
+	border-radius: 40%;
+	-moz-border-radius: 40%;
 	border: 1px solid #ffffff;
 }
