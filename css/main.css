@@ -44,9 +44,9 @@ h2 {
     margin: auto;
 }
 
-/*footer {
+footer {
    border-top: 3px solid #d5d5d5;
-}*/
+}
 
 .title-container {
 	text-align: right;
@@ -90,5 +90,5 @@ article {
 }
 
 ion-icon {
-	font-size: 16px;
+	font-size: 64px;
 }
