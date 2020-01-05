@@ -89,6 +89,13 @@ footer {
   justify-content: space-between;
 }
 
+#main-container {
+  display: flex;
+  overflow: auto;
+  justify-content: space-between;
+  background: ORANGE;	
+}
+
 article {
   padding: 0 1rem 1rem 0;
   text-align: justify;
