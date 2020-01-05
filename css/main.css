@@ -84,14 +84,10 @@ footer {
 }
 
 #text-container {
-  display: flex;
-  flex-flow: column nowrap;
-  justify-content: space-between;
-}
-
-#main-container {
-	overflow: auto;
-	background: BLUE;	
+	position: fixed;
+	display: flex;
+  	flex-flow: column nowrap;
+  	justify-content: space-between;
 }
 
 article {
@@ -100,6 +96,7 @@ article {
 }
 
 #dp-container {
+	position: fixed;
   padding-top: 2rem;
 }
 
