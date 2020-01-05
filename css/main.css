@@ -81,7 +81,7 @@ footer {
 #container {
   display: flex;
   flex-flow: row nowrap;
-	position: fixed;
+	
   
 }
 
