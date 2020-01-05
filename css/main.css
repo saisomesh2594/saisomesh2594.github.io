@@ -86,7 +86,7 @@ footer {
 }
 
 #text-container {
-	position: fixed;
+	
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
