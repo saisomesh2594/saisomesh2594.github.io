@@ -90,10 +90,8 @@ footer {
 }
 
 #main-container {
-  display: flex;
-  overflow: auto;
-  justify-content: space-between;
-  background: ORANGE;	
+	overflow: auto;
+	background: ORANGE;	
 }
 
 article {
