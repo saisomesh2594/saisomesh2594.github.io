@@ -38,9 +38,13 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-h2 h3 {
-    
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+h2 {
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+
+h3 {
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 article {
