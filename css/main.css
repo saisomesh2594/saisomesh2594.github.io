@@ -16,8 +16,13 @@ nav ul li, footer ul li {
     padding: 10px;
 }*/
 
-ul li{
+ul{
 	padding: 30px 0px;
+}
+
+
+li{
+	padding: 20px 0px;
 }
 
 dl dt{
