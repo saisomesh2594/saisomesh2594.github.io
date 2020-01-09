@@ -20,7 +20,6 @@ ul li{
 	padding: 20px 0px;
 }
 
-
 dl dt{
 	padding: 20px 0px;
 }
@@ -39,23 +38,26 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-
-h3 {
+h2 h3 {
     
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-h2 {
-    
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+article {
+  padding: 0 1rem 1rem 0;
+  text-align: justify;
 }
 
-.icon-container {
-    margin: auto;
+ion-icon {
+	font-size: 36px;
 }
 
 footer {
    border-top: 3px solid #d5d5d5;
+}
+
+.icon-container {
+    margin: auto;
 }
 
 .title-container {
@@ -82,26 +84,20 @@ footer {
 #container {
   display: flex;
   flex-flow: row nowrap;
-	
-  
 }
 
 #twwet-research-container {
   display: flex;
   flex-flow: row nowrap;
-	
-  
 }
 
 #text-container {
-	
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
 }
 
 #researchtrial {
-	
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
@@ -112,15 +108,6 @@ footer {
 }
 
 
-article {
-  padding: 0 1rem 1rem 0;
-  text-align: justify;
-}
-
 #dp-container {
 	padding-top: 2rem;
-}
-
-ion-icon {
-	font-size: 36px;
 }
