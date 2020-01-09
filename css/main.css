@@ -106,7 +106,7 @@ footer {
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
-	width: 55%;
+	width: 75%;
 }
 
 #twitter {
