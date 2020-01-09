@@ -79,8 +79,8 @@ footer {
 	height: 300px;
 	display: inline-block;
 	background-size: cover;
-	border-radius: 0%;
-	-moz-border-radius: 0%;
+	border-radius: 5%;
+	-moz-border-radius: 5%;
 	border: 2px solid #ffffff;
 	/*box-shadow: 0 0 0 3px $text-color;*/
 }
