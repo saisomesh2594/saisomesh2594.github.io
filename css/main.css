@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
 }
 
 /*nav ul, footer ul {
@@ -102,13 +102,14 @@ footer {
 }
 
 #researchtrial {
+	
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
 }
 
 #twitter {
-	padding-top: 2rem;
+	padding-top: 12rem;
 }
 
 
