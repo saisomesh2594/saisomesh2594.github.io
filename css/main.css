@@ -106,10 +106,13 @@ footer {
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
+	width: 55%;
 }
 
 #twitter {
-	padding-top: 12rem;
+	padding-top: 2rem;
+	float: left;
+	width: 20%;
 }
 
 
