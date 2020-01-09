@@ -103,16 +103,14 @@ footer {
 
 #researchtrial {
 	float: left;
-	display: flex;
-  	flex-flow: column nowrap;
-  	justify-content: space-between;
-	width: 70%;
+	justify-content: space-between;
+	width: 50%;
 }
 
 #twitter {
 	padding-top: 2rem;
 	float: left;
-	width: 40%;
+	width: 50%;
 }
 
 
