@@ -90,10 +90,10 @@ footer {
   flex-flow: row nowrap;
 }
 
-#twwet-research-container {
+/*#twwet-research-container {
   display: flex;
   flex-flow: row nowrap;
-}
+}*/
 
 #text-container {
 	display: flex;
@@ -102,7 +102,7 @@ footer {
 }
 
 #researchtrial {
-	
+	float: left;
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
