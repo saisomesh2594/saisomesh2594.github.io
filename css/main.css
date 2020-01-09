@@ -86,12 +86,31 @@ footer {
   
 }
 
+#twwet-research-container {
+  display: flex;
+  flex-flow: row nowrap;
+	
+  
+}
+
 #text-container {
 	
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
 }
+
+#researchtrial {
+	
+	display: flex;
+  	flex-flow: column nowrap;
+  	justify-content: space-between;
+}
+
+#twitter {
+	padding-top: 2rem;
+}
+
 
 article {
   padding: 0 1rem 1rem 0;
