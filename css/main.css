@@ -60,6 +60,10 @@ footer {
    border-top: 3px solid #d5d5d5;
 }
 
+table, th, td {
+  border: 0px solid black;
+}
+
 .icon-container {
     margin: auto;
 }
