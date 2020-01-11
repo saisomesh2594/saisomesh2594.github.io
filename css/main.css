@@ -129,7 +129,6 @@ table, th, td {
 }
 
 #center{
-	float: left;
 	margin:0 auto;
 	width:5%;
 }
