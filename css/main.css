@@ -24,6 +24,11 @@ ul.custom {
 	list-style-type: square;
 }
 
+li.custom {
+            text-align:right;
+            direction:rtl;
+}
+
 dl dt{
 	padding: 20px 0px;
 }
