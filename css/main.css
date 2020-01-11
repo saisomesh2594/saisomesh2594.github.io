@@ -129,14 +129,15 @@ table, th, td {
 }
 
 #center{
+	float: left;
 	margin:0 auto;
-	width:10%;
+	width:5%;
 }
 
 #twitter {
 	padding-top: 0rem;
 	float: left;
-	width: 50%;
+	width: 55%;
 }
 
 
