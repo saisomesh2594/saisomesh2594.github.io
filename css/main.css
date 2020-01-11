@@ -24,6 +24,8 @@ ul.custom {
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
+	overflow: auto;
+	width: 100%;
 }
 
 dl dt{
