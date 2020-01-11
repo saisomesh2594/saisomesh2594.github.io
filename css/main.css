@@ -128,11 +128,15 @@ table, th, td {
 	
 }
 
+#center{
+	margin:0 auto;
+	width:10%;
+}
+
 #twitter {
 	padding-top: 0rem;
 	float: left;
-	width: 60%;
-	height: 40%;
+	width: 50%;
 }
 
 
