@@ -113,6 +113,11 @@ table, th, td {
 	float: left;
 	justify-content: space-between;
 	width: 40%;
+	border: 1px solid #2d2d4b;
+	box-shadow: 1px 1px 0px #2d2d4b;
+	display: block;
+	font-weight: bold;
+	
 }
 
 #twitter {
