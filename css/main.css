@@ -108,13 +108,13 @@ table, th, td {
 #researchtrial {
 	float: left;
 	justify-content: space-between;
-	width: 50%;
+	width: 35%;
 }
 
 #twitter {
 	padding-top: 0rem;
 	float: left;
-	width: 50%;
+	width: 65%;
 }
 
 
