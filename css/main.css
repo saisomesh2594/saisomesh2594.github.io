@@ -20,6 +20,12 @@ ul li{
 	padding: 20px 0px;
 }
 
+ul.custom {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
 dl dt{
 	padding: 20px 0px;
 }
