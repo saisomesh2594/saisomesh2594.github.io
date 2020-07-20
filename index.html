@@ -79,12 +79,43 @@ title: Somesh Sai, Just Another Bioinformatician
 	<!--<div id="footer-container"><footer></footer></div>-->
 	<div id="twwet-research-container">
 		<div id="researchtrial">
-			<h1><ion-icon name="flask"></ion-icon> Research Interest</h1>
+			<!--<h1><ion-icon name="flask"></ion-icon> Research Interest</h1>
 			<article><h2>
 				<br>
 				I’m interested in single-cell data analysis and methods development. Currently, I am involved in developing and testing methods focusing on integrated multi-omics analysis and identifying potential cell-cell interactions in single-cell datasets.
 				
-			</h2></article>
+			</h2></article>-->
+						      <script src="https://platform.twitter.com/widgets.js"></script>
+
+<script>
+  twttr.ready(function() {
+
+    twttr.widgets.createTweet(
+
+      // Replace this with the Tweet ID
+      'TWEET ID', document.getElementById("tweet"))
+      .then(function(el) {
+
+        var e = el.contentDocument;
+
+        // Change the tweet text
+        var html = e.querySelector(".Tweet-text");
+        html.innerHTML = "[How-to Guide] " + html.innerHTML;
+
+        // Hide the Follow Button
+        e.querySelector(".FollowButton").style.display = "none";
+
+        // Change the retweet count
+        e.querySelector(".TweetAction--retweet .TweetAction-stat").innerHTML = "123";
+
+        // Change the favorites count
+        e.querySelector(".TweetAction--favorite .TweetAction-stat").innerHTML = "999";
+
+        // Replace the date with text
+        e.querySelector(".dt-updated").innerHTML = "Contact the author of this tweet at amit@labnol.org";
+      });
+  });
+</script>
 		</div>
 		<!--<div id="twitter">
 			<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">In my experience, doing a PhD is mostly downloading papers with the intention to read them and organizing them into folders that you eventually accept you&#39;ll never read. <a href="https://twitter.com/AcademicChatter?ref_src=twsrc%5Etfw">@AcademicChatter</a> <a href="https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw">#phdchat</a></p>&mdash; PhD Diaries (@thoughtsofaphd) <a href="https://twitter.com/thoughtsofaphd/status/1181646723711680512?ref_src=twsrc%5Etfw">October 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
