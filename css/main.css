@@ -73,9 +73,7 @@ table, th, td {
   border: 0px solid black;
 }
 
-
-
-.icon-container {
+#icon-container {
     margin: auto;
 }
 
@@ -100,7 +98,14 @@ table, th, td {
 	/*box-shadow: 0 0 0 3px $text-color;*/
 }
 
-#container {
+.text-container {
+	display: flex;
+  	flex-flow: column nowrap;
+  	justify-content: space-between;
+}
+
+
+.container {
   display: flex;
   flex-flow: row nowrap;
 	/*background-color: lightgreen;*/
@@ -118,11 +123,6 @@ table, th, td {
   position:absolute;*/
 }
 
-#text-container {
-	display: flex;
-  	flex-flow: column nowrap;
-  	justify-content: space-between;
-}
 
 #researchtrial {
 	float: left;
