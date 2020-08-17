@@ -7,13 +7,13 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
-    padding: 10px;
+    padding: 0px;
 }
 
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    padding: 10px;
+    /*padding: 10px;*/
 }
 
 ul li{
@@ -151,7 +151,7 @@ table, th, td {
 
 
 #twitter {
-	padding-top: 5rem;
+	padding-top: 0rem;
 	float: left;
 	/*width: 55%;*/
 }
