@@ -97,6 +97,7 @@ table, th, td {
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
+  	float: left;
 }
 
 #icon-container {
