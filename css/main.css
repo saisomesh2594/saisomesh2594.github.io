@@ -73,9 +73,6 @@ table, th, td {
   border: 0px solid black;
 }
 
-#icon-container {
-    margin: auto;
-}
 
 .title-container {
 	text-align: right;
@@ -98,19 +95,26 @@ table, th, td {
 	/*box-shadow: 0 0 0 3px $text-color;*/
 }
 
+
+.container {
+  display: flex;
+  flex-flow: row nowrap;
+  /*background-color: lightgreen;*/
+	/*height: 30px;*/
+}
+
 #text-container {
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
 }
 
-
-.container {
-  display: flex;
-  flex-flow: row nowrap;
-  background-color: lightgreen;
-	/*height: 30px;*/
+#icon-container {
+    margin: auto;
 }
+
+
+
 
 #twwet-research-container {
   display: flex;
