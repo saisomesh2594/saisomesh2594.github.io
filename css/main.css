@@ -13,11 +13,11 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    padding: 30px;
+    padding: 100px;
 }
 
 ul li{
-	padding: 20px 0px;
+	padding: 10px 0px;
 }
 
 
