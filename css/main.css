@@ -22,6 +22,7 @@ nav ul li, footer ul li {
 
 ul.custom {
 	list-style-type: circle;
+	padding: 10px;
 }
 
 li.custom {
