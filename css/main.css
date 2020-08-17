@@ -5,24 +5,18 @@ body {
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 20px;
     list-style: none;
     font-weight: bold;
 }
 
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 10px;
-    padding: 20px;
 }
 
 ul li{
 	padding: 20px 0px;
 }
 
-li{
-	margin: 20px 0;
-}
 
 ul.custom {
 	list-style-type: circle;
