@@ -7,10 +7,13 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
+    padding: 10px;
 }
 
 nav ul li, footer ul li {
     display: inline;
+    margin-right: 20px;
+    padding: 10px;
 }
 
 ul li{
@@ -18,15 +21,15 @@ ul li{
 }
 
 
-ul.custom {
+/*ul.custom {
 	list-style-type: circle;
-	/*padding: 10px;*/
+	padding: 10px;
 }
 
 li.custom {
 	text-align:right;
     direction:rtl;
-}
+}*/
 
 dl dt{
 	padding: 20px 0px;
@@ -55,7 +58,7 @@ h3 {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-article {
+article {	
   padding: 0 1rem 1rem 0;
   text-align: justify;
 }
