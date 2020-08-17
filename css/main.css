@@ -104,7 +104,7 @@ table, th, td {
 }
 
 #icon-container {
-	float:left;
+	/*float:left;*/
     margin: auto;
 }
 
