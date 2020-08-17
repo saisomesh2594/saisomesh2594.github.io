@@ -110,6 +110,7 @@ table, th, td {
 }
 
 #icon-container {
+	float:left;
     margin: auto;
 }
 
