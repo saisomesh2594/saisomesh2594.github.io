@@ -21,7 +21,7 @@ nav ul li, footer ul li {
 }*/
 
 ul.custom {
-	list-style-type: square;
+	list-style-type: circle;
 }
 
 li.custom {
