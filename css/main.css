@@ -5,7 +5,7 @@ body {
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 20px;
+    padding: 50px;
     list-style: none;
     font-weight: bold;
 }
@@ -150,7 +150,7 @@ table, th, td {
 
 
 #twitter {
-	padding-top: 0rem;
+	padding-top: 5rem;
 	float: left;
 	/*width: 55%;*/
 }
