@@ -54,6 +54,10 @@ a.sidebar-nav-item:focus {
     opacity: 0.5;
 }
 
+a.sidebar-nav-item:active{
+	background-color: red;
+}
+
 
 
 h1 {
