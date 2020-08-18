@@ -103,9 +103,12 @@ table, th, td {
   	float: left;
 }
 
-#icon-container {
+.icon-container {
 	/*float:left;*/
+	margin-top: 5px;
     margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
 
