@@ -48,6 +48,14 @@ a:hover {
     text-decoration: underline;
 }
 
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+    text-decoration: none;
+    opacity: 0.5;
+}
+
+
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
