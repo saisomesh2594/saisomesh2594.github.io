@@ -1,5 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway);
-
+/*@import url(http://fonts.googleapis.com/css?family=Raleway);*/
 body {
     margin: 60px auto;
     width: 75%;
@@ -179,7 +178,7 @@ table, th, td {
 
 
 
-#cssmenu,
+/*#cssmenu,
 #cssmenu ul,
 #cssmenu ul li,
 #cssmenu ul li a {
@@ -274,4 +273,4 @@ table, th, td {
 #cssmenu > ul > li:hover > a:after,
 #cssmenu > ul > li > a:hover:after {
   background: #47c9af;
-}
+}*/
