@@ -21,6 +21,9 @@ ul li{
 	padding: 10px 0px;
 }
 
+nav .point{
+	color: blue;
+}
 
 /*ul.custom {
 	list-style-type: circle;
@@ -96,7 +99,7 @@ table, th, td {
 	/*height: 30px;*/
 }
 
-.text-container {
+#text-container {
 	display: flex;
   	flex-flow: column nowrap;
   	justify-content: space-between;
